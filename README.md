@@ -1,5 +1,10 @@
 # facebook-chatbot
-Choice based chatbot using Facebook Api
+#### Choice based chatbot using Facebook Api
+
+
+## Watch demo Video: 
+[![Click to see demo](http://img.youtube.com/vi/BlA_CXItfrM/0.jpg)](http://www.youtube.com/watch?v=BlA_CXItfrM)
+
 
 ## Step A : Setting up the facebook page where the bot will run. 
 
